@@ -1,0 +1,16 @@
+/* External CSS for faculty section */
+#faculty {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 20px 0;
+}
+#faculty h2 {
+    color: #333;
+}
+#faculty ul {
+    list-style-type: none;
+    padding: 0;
+}
+#faculty li {
+    margin-bottom: 10px;
+}
